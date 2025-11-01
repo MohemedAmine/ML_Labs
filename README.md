@@ -55,7 +55,7 @@ Ensure you have **Python 3.10+** installed.
 ### 📦 Installation
 ```bash
 # Clone this repository
-git clone https://github.com/<your-username>/ML_Labs.git
+git clone https://github.com/MohemedAmine/ML_Labs.git
 cd ML_Labs
 
 # Install dependencies
