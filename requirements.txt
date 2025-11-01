@@ -1,0 +1,46 @@
+# =============================================================================
+# DATA SCIENCE & MACHINE LEARNING ENVIRONMENT
+# Professional-grade dependencies for analytics and ML projects
+# =============================================================================
+
+# CORE SCIENTIFIC COMPUTING
+numpy==1.24.3
+pandas==2.0.3
+scipy==1.10.1
+scikit-learn==1.3.0
+
+# DATA VISUALIZATION & EXPLORATION
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.15.0
+missingno==0.5.2
+
+# JUPYTER DEVELOPMENT ENVIRONMENT
+jupyter==1.0.0
+notebook==6.5.4
+ipython==8.14.0
+jupyterlab==4.0.4
+
+# WEB SCRAPING & DATA COLLECTION
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# API DEVELOPMENT & WEB APPLICATIONS
+fastapi==0.100.1
+uvicorn==0.23.2
+streamlit==1.27.0
+
+# IMAGE PROCESSING & UTILITIES
+pillow==10.0.1
+tqdm==4.65.0
+
+# ADVANCED ANALYTICS & PRODUCTION TOOLS
+joblib==1.3.2
+statsmodels==0.14.0
+openpyxl==3.1.2
+
+# DEVELOPMENT & CODE QUALITY
+black==23.7.0
+flake8==6.0.0
+pytest==7.4.0
