@@ -84,7 +84,7 @@ This notebook demonstrates:
 ---
 
 ## 👨‍💻 Author
-**Mohamed Amine**  
+**Mohamed amine OULAD SAID**  
 > Data Science & Machine Learning Educator  
 > Passionate about building interpretable and efficient ML workflows.
 
